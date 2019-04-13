@@ -1,0 +1,2 @@
+Week2/data/enwiki_corpus.csv filter=lfs diff=lfs merge=lfs -text
+Week2/data/sqlResult_1558435.csv filter=lfs diff=lfs merge=lfs -text
